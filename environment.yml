@@ -1,4 +1,4 @@
-name: elice
+name: drewmcq
 channels:
   - pytorch
   - conda-forge
