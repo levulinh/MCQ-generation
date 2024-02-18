@@ -1,4 +1,4 @@
-# Project Name
+# Multiple-choice Question Generation from PDF files
 
 Generating Multiple-choice questions from given paragraph read from pdf files..
 
